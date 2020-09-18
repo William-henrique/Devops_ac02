@@ -14,7 +14,14 @@ Comando ADD:
 Comando Commit:  
 1.Insights/network (Print_06 antes da realização do commit)  
 2.Git commit -m 'AC_02' (Print_07 commit realizado)  
-3.Insights/network (Print_08 depois da realuização commit)  
+
+Comando Push:  
+1.Depois de commitar foi alterado o diretorio local, comando push vai fazer sicronizar com repositorio remoto.  
+
+Comando Pull:  
+1.
+
+
 
 
 
