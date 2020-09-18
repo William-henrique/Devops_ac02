@@ -12,8 +12,10 @@ Comando ADD:
 3.Git ADD README.md e Git status (Print_05 mudança foram feitas e estão prontas para serem commitadas)  
 
 Comando Commit:  
-1.Insights/network (Print_06 antes da realização do commit)
-2.
+1.Insights/network (Print_06 antes da realização do commit)  
+2.Git commit -m 'AC_02' (Print_07 commit realizado)  
+3.Insights/network (Print_08 depois da realuização commit)  
+
 
 
 
